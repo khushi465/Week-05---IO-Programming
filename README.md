@@ -63,4 +63,5 @@ Each folder is organized by day, containing code samples, exercises, and notes. 
 
 ## Next Steps
 
-In Week 6, we will explore multithreading and concurrency in Java, including thread creation, synchronization, and concurrent data structures.
+In Week 6, we will begin exploring Java Backend Development using Spring Boot, covering the fundamentals of REST APIs, controllers, dependency injection, and building web applications.
+
